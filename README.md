@@ -9,7 +9,7 @@
 <h3> 🚀Um breve resumo sobre meu percurso:</h3>
 
 
-Atualmente sou estudante do Curso de Web Full Stack da Labenu. Porém considero que meu percurso profissional na área de programação começou quando em 2006 ingressei na USP no curso de letras. Sempre gostei de estudar línguas, linguagens e suas tecnologias e, pouco antes de terminar o bacharelado em 2013, iniciei a dar aulas. Trabalhei em diversas escolas, em todas elas como professora de espanhol e sempre gostei muito de minha profissão. Porém, pouco antes de começar a pandemia me interessei por linguagem de computadores e tive a oportunidade de conhecer um pouco Python através da plataforma de ensino Coursera. Me apaixonei por este novo tipo de linguagem e decidi mudar de carreira, sem mudar minha área de interesse. Agora, em 2021, sou estudante Full Stack, e programadora Front-End em busca de recolocação no mercado de trabalho. 
+Formada no curso de Web Full Stack da Labenu, considero que meu percurso profissional na área de programação começou quando em 2006 ingressei na USP no curso de letras.Pode parecer estranho, mas explico: Sempre gostei de estudar línguas, linguagens e suas tecnologias e, pouco antes de terminar o bacharelado em 2013, iniciei a dar aulas, trabalhei em diversas escolas, em todas elas como professora de espanhol e sempre gostei muito de minha profissão. Com a chegada da pandemia pensei que o mundo iria se digitalizar e fui buscar um curso de python na plataforma Coursera,  adorei conhecer a  linguagem pela qual os softwares são elaborados e desde então me apaixonei por programar. Decidi neste momento mudar de carreira, sem mudar minha área de interesse, sempre pensando em como posso contribuir com a área da educação.
 
 
 ### 📫 Contato:
