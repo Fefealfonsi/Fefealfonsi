@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋! Eu sou a Fernanda Garcia Alfonsi</h1>
 <h3 align="center">Desenvolvedora Full Stack Junior.</h3>
 
-
+<p>⏳ Hoje trabalho como Instrutora de programação na Labenu<p>
 <p>⏳ Experiência de estudo com mais de 1000 horas  de programação no curso da Labenu.<p>
 <p>📚 Estou estudando as tecnologias: HTML, CSS, JS, React, TS, NodeJS, MySQL.<p>
   
