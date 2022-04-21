@@ -23,7 +23,7 @@ Formada no curso de Web Full Stack da Labenu, considero que meu percurso profiss
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/fernanda-alfonsi-93613a201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.instagram.com/garciafezoca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-![Snake animation](https://github.com/Fefealfonsi/Fefealfonsi/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Fefealfonsi/Fefealfonsi/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
